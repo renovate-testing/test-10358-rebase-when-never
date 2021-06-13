@@ -3,7 +3,7 @@
   <dependencies>
       <dependency>
         <groupId>org.apache.lucene</groupId>
-        <version>8.0.0</version>
+        <version>8.8.2</version>
         <artifactId>lucene-core</artifactId>
     </dependency>
   </dependencies>
